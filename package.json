@@ -10,8 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@solana/pay": "^0.2.5",
+    "@solana/web3.js": "^1.91.8",
+    "bignumber.js": "^9.1.2",
     "nuxt": "^3.11.2",
     "vue": "^3.4.27",
-    "vue-router": "^4.3.2"
+    "vue-router": "^4.3.2",
+    "zod": "^3.23.8"
   }
 }
